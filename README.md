@@ -1,8 +1,13 @@
 # Évaluation Git – Rendu écrit
 
+capture des règle appliquer sur main : 
+
+<img width="1011" height="720" alt="RulesMain1" src="https://github.com/user-attachments/assets/8e39f14c-7d01-4714-a06d-262da5871ba2" />
+<img width="1011" height="878" alt="RulesMain2" src="https://github.com/user-attachments/assets/99491328-786d-4b89-b779-01cf66fdce96" />
+<img width="985" height="895" alt="RulesMain3" src="https://github.com/user-attachments/assets/2b9e6ef5-f408-4a3e-9bdb-f28acb3c03cb" />
+
 ## Pourquoi ces règles sont importantes
 
-Voici l’essentiel en quelques mots :
 
 - **Pull request obligatoire** → Pas de merge sans revue, même en solo.  
 - **Approbations (même 0)** → Sert de rappel pour relire son code avant de merger.  
