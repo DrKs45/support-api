@@ -1,3 +1,5 @@
+ALLAIN Amaury - B3 SRC
+
 # Évaluation Git – Rendu écrit
 
 capture des règle appliquer sur main : 
